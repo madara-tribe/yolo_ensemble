@@ -4,6 +4,7 @@
 - SoftNMS
 - NMW
 - WBF
+- TTA
 
 
 # References
